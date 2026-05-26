@@ -1,6 +1,6 @@
 {
     "lateralSliding": true,
-    "userIdPrefix": "colors_blue_orange_",
+    "userIdPrefix": "colors_orange_bg_blue_",
     "pageInstructions": {
         "user_id": "Introduce the user id",
         "departure_flight_selection": "Select a flight that leaves Madrid after 09:00 and does not have extra legroom.",
@@ -15,14 +15,14 @@
     "perPagePalettes": {
         "enabled": true,
         "palettes": {
-            "user_id": "blueAnalogous",
-            "departure_flight_selection": "blueAnalogous",
-            "return_flight_selection": "blueAnalogous",
-            "flight_selection_feedback": "blueAnalogous",
-            "departure_baggage_options": "blueComplementary",
-            "return_baggage_options": "blueComplementary",
-            "baggage_selection_feedback": "blueComplementary",
-            "overall_experience_feedback": "blueComplementary"
+            "user_id": "orangeAnalogous",
+            "departure_flight_selection": "orangeAnalogous",
+            "return_flight_selection": "orangeAnalogous",
+            "flight_selection_feedback": "orangeAnalogous",
+            "departure_baggage_options": "orangeComplementary",
+            "return_baggage_options": "orangeComplementary",
+            "baggage_selection_feedback": "orangeComplementary",
+            "overall_experience_feedback": "orangeComplementary"
         }
     },
     "experimentMode": true,
